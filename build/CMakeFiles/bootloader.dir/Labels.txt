@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/CMakeFiles/bootloader
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/CMakeFiles/bootloader.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/CMakeFiles/bootloader-complete.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+I:/Proyectos/ESP32/mqtt_tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
